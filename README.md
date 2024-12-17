@@ -1,7 +1,7 @@
 # Gaia's Hope 🌌  
 **Humanity's Next Frontier**  
 
-## Recognition For Project
+## 🎗️ Recognition For Project
 We participated in Gerard K. O'Neill's Space Settlement Contest and won first place in the Grade 12 large group category. Over 4500 groups participated from 19 countries. We were then invited to present our space settlement at Frisco, Texas in 2023 for the International Space Development Conference and received valuable feedback from top space researchers. 
 
 ## Project Overview  
