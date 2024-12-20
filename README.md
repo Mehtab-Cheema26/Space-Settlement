@@ -2,7 +2,9 @@
 **Humanity's Next Frontier**  
 
 ## 🏆 Recognition For Project
-We participated in Gerard K. O'Neill's Space Settlement Contest and won first place in the Grade 12 large group category. Over 4500 groups participated from 19 countries. We were then invited to present our space settlement at Frisco, Texas in 2023 for the International Space Development Conference and received valuable feedback from top space researchers. 
+We participated in Gerard K. O'Neill's Space Settlement Contest and won first place in the Grade 12 large group category. Over 4500 groups participated from 19 countries. We were then invited to present our space settlement at Frisco, Texas in 2023 for the International Space Development Conference and received valuable feedback from top space researchers.
+[News article 1](https://www.insauga.com/brampton-students-win-international-competition-hosted-by-nasa-and-national-space-society/)
+[News article 2](https://www.bramptonguardian.com/news/2-brampton-student-teams-win-prestigious-science-award/article_159bb547-7aaf-517c-ad5d-ccc43bfbcebe.html)
 
 ## Project Overview  
 *Gaia's Hope* is a detailed concept for a **cylindrical space settlement** designed to sustain human life on **Titan**, Saturn's largest moon. This project prioritizes sustainability, efficient resource management, and a functional society for 10,000 inhabitants.
